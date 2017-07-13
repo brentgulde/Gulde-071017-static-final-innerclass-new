@@ -1,0 +1,1 @@
+# Gulde-071017-static-final-innerclass-new
